@@ -1,5 +1,5 @@
 # Manage Landing Page
-## To Experience Live Demo [Click Here](https://md-mussanna-bin-sharif.github.io/manage-landing-page/)
+## Live Demo [Click Here](https://mahin-codes.github.io/manage-landing-page/)
 ### Manage Landing Page
 - Crafted Using HTML & TailwindCss.
 - Developed with Mobile First Method then Desktop.
