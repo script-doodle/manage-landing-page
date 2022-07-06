@@ -1,5 +1,5 @@
 # Manage Landing Page
-## Live Demo [Click Here](https://mahin-codes.github.io/manage-landing-page/)
+## [Live Demo](https://mahin-codes.github.io/manage-landing-page/)
 ### Manage Landing Page
 - Crafted Using HTML & TailwindCss.
 - Developed with Mobile First Method then Desktop.
